@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd-test-d9172",
+    "staging": "cicd-test-d9172"
+  },
+  "targets": {},
+  "etags": {}
+}
